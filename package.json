@@ -1,7 +1,7 @@
 {
-  "name": "ELAINABOT",
+  "name": "BOT ACTIVOS 24/7",
   "version": "3.0.0",
-  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
+  "description": "BOT EXCLUSIVO DEL GRUPO ACTIVOS 24/7",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
